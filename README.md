@@ -29,6 +29,8 @@
 
 执行 `pnpm dev` 运行 `H5`
 
+`git subtree push --prefix dist/build/h5 origin gh-pages`
+
 ## 📦 运行（支持热更新）
 
 - web平台： `pnpm dev:h5`, 然后打开 [http://localhost:9000/](http://localhost:9000/)。

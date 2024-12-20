@@ -1,0 +1,1 @@
+import{h as e}from"./http.2c593a47.js";const a=a=>e({url:"/foo",method:"GET",query:{name:a}}),o=a=>e({url:"/foo",method:"POST",query:{name:a},data:{name:a}}),r=(a=1,o=10)=>e({url:"/queryList",method:"GET",query:{page:a,pageSize:o}});export{r as a,a as g,o as p};
